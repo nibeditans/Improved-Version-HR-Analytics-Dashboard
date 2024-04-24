@@ -1,6 +1,6 @@
 # HR-Analytics-Dashboard-Improved-Version
 This is the improved version of the previous HR Analaytics Dashboard.
-![HR Analytics Dashboard - The Improved Version](https://github.com/nibeditans/HR-Analytics-Dashboard-Improved-Version/blob/main/HR%20Analytics%20Dashboard-Improved%20Version.png)
+![HR Analytics Dashboard - The Improved Version](https://github.com/nibeditans/Improved-Version-HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard-Improved%20Version.png)
 
 In this improved Dashboard, I have modified some of the features, and also changed the graphics of the complete dashboard. I have also added two more visuals for Attrition by Marital Status and Attrition by Performance Rate. 
 
